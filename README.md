@@ -16,13 +16,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-$ composer require 2amigos/yii2-type-ahead-widget:~2.0
+$ composer require buibr/yii2-type-ahead-widget:~2.0
 ```
 
 or add
 
 ```
-"2amigos/yii2-type-ahead-widget": "~2.0"
+"buibr/yii2-type-ahead-widget": "~2.0"
 ```
 
 to the `require` section of your `composer.json` file.
@@ -32,8 +32,8 @@ to the `require` section of your `composer.json` file.
 Using a model and a `remote` configuration:
 
 ```
-use dosamigos\typeahead\Bloodhound;
-use dosamigos\typeahead\TypeAhead;
+use buibr\typeahead\Bloodhound;
+use buibr\typeahead\TypeAhead;
 use yii\helpers\Url;
 
 <?php
