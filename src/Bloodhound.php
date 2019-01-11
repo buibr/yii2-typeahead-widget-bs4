@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace dosamigos\typeahead;
+namespace buibr\typeahead;
 
 use yii\base\BaseObject;
 use yii\base\InvalidConfigException;
@@ -18,7 +18,7 @@ use yii\web\JsExpression;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package dosamigos\typeahead
+ * @package buibr\typeahead
  */
 class Bloodhound extends BaseObject
 {

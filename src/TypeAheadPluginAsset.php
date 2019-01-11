@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace dosamigos\typeahead;
+namespace buibr\typeahead;
 
 use yii\web\AssetBundle;
 
@@ -22,6 +22,6 @@ class TypeAheadPluginAsset extends AssetBundle
     ];
     public $depends = [
         'yii\bootstrap4\BootstrapPluginAsset',
-        'dosamigos\typeahead\TypeAheadAsset',
+        'buibr\typeahead\TypeAheadAsset',
     ];
 }

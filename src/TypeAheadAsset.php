@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace dosamigos\typeahead;
+namespace buibr\typeahead;
 
 use yii\web\AssetBundle;
 
